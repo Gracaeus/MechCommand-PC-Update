@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity Lessons", "Unity Lessons.csproj", "{593FFB92-3DB0-F91D-16E7-88B3F5E8F427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity Lessons.Editor", "Unity Lessons.Editor.csproj", "{3812665C-02EB-9A10-6D3C-3588D1AD73D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{593FFB92-3DB0-F91D-16E7-88B3F5E8F427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593FFB92-3DB0-F91D-16E7-88B3F5E8F427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593FFB92-3DB0-F91D-16E7-88B3F5E8F427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593FFB92-3DB0-F91D-16E7-88B3F5E8F427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3812665C-02EB-9A10-6D3C-3588D1AD73D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3812665C-02EB-9A10-6D3C-3588D1AD73D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3812665C-02EB-9A10-6D3C-3588D1AD73D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3812665C-02EB-9A10-6D3C-3588D1AD73D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8ECAC10-B20B-4DE1-A009-ADB931A69D6D}
+	EndGlobalSection
+EndGlobal
